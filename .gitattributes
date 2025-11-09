@@ -1,1 +1,2 @@
 *.ipynb filter=lfs diff=lfs merge=lfs -text
+results/analysis/xai_analysis_report.json filter=lfs diff=lfs merge=lfs -text
